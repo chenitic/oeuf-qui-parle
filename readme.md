@@ -1,8 +1,14 @@
 # To-Do List
 
 ## Next steps:
-- Random images
-- Deployement
+- Responsive
+- Largeur bulle
+- Size image
+- More images
+
+
+- Multiple github accounts
+- Error backgroung
 
 
 ## All steps: 
@@ -20,4 +26,8 @@ Interaction:
 
 Deployement:
 - How to put it in a server (github)
-- Get a domain name
+- Get a domain name (falcultatif)
+
+
+## Resources
+[PNG downloader](https://www.pngwing.com/en/free-png-bsgrt/download)
