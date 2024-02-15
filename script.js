@@ -19,11 +19,14 @@ window.onload = function() {
         {image: 'images/ordinateur.png', name: 'un ordinateur',  plural: "ordinateurs"},
         {image: 'images/pingouin.png', name: 'un pingouin',  plural: "pingouins"},
         {image: 'images/fourchette.png', name: 'une fourchette',  plural: "fourchettes"},
-        {image: 'images/orange.png', name: 'une orange',  plural: "oranges"}
+        {image: 'images/orange.png', name: 'une orange',  plural: "oranges"},
+        {image: 'images/zebrafish.png', name: 'un zebrafish',  plural: "zebrafishs"},
+        {image: 'images/horloge.png', name: 'une horloge',  plural: "horloges"},
+        {image: 'images/cricket.png', name: 'un cricket',  plural: "crickets"},
     ];
 
     var environmentSentencePair = [
-        {image: 'images/four.jpg', name: "dans un four", adjective: 'chaud'},
+        {image: 'images/poele.png', name: "dans une poêle", adjective: 'chaud'},
         {image: 'images/banquise.jpg', name: "sur une banquise", adjective: 'froid'},
         {image: 'images/mer.jpg', name: "au bord de la mer", adjective: 'humide'}
     ];
